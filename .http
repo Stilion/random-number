@@ -1,0 +1,8 @@
+### Creating a new rundom number
+POST http://localhost:8000/api/numbers/generate
+Accept: application/json
+
+### Get current number
+GET http://localhost:8000/api/numbers/1
+Accept: application/json
+
