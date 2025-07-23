@@ -51,9 +51,9 @@ JSON {
 http GET /api/numbers/{id}
 
 #### Parameters
-| Параметр | Тип    | Описание           |
+| Parameter | Type    | Description           |
 |----------|--------|-------------------|
-| id       | integer| ID числа в базе    |
+| id       | integer| ID numbers in the base    |
 
 #### Answer
 JSON {
